@@ -14,6 +14,10 @@ public class Main {
         Love.Heat="68789lj";
         Love.Size="983495893485km";
 
+        PlanetHonesty Honesty =new PlanetHonesty();
+        Honesty.Size="70000km";
+        Honesty.Color="Orange";
+
 
     }
 }
