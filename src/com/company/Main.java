@@ -10,6 +10,10 @@ public class Main {
         Wedo.Planets=2;
         Wedo.moons=3;
 
+        Sun Love= new Sun();
+        Love.Heat="68789lj";
+        Love.Size="983495893485km";
+
 
     }
 }
