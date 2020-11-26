@@ -11,5 +11,10 @@ public class Main {
         Wedo.moons=3;
 
 
+        Moon batch7= new Moon();
+        batch7.Size="200";
+        batch7.Color="White";
+
+
     }
 }
