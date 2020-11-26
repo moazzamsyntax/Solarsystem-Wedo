@@ -2,9 +2,10 @@ package com.company;
 
 public class SolarSystem {
 
-        int Sun;
-        int Planets;
-        int moons;
+       String Nebula;
+       String Cosmos;
+       String Stars;
+       
 
 
 
