@@ -18,6 +18,11 @@ public class Main {
         Honesty.Size="70000km";
         Honesty.Color="Orange";
 
+        PLanetEmpathy Empathy =new PLanetEmpathy();
+        Empathy.Size="60000km";
+        Empathy.color="White";
+
+
 
     }
 }
