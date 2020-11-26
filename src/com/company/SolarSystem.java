@@ -7,7 +7,7 @@ public class SolarSystem {
       String Moon;
        String Cosmos;
        String Stars;
-       
+
 
 
 
