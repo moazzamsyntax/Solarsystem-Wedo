@@ -14,6 +14,10 @@ public class Main {
         Love.Heat="68789lj";
         Love.Size="983495893485km";
 
+        PLanetEmpathy Empathy =new PLanetEmpathy();
+        Empathy.Size="60000km";
+        Empathy.color="White";
+
 
     }
 }
